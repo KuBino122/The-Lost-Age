@@ -1,0 +1,50 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "263fcb2f08a428e2f101b505afd6b5ffb9476a7092ea1537312e8eaffde33a86"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/backslot.pw.toml"
+hash = "f6a73faf9adf2b5f3f0ccc2e853beb785fc0e1995c44179173a81b2236b3b9f0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "134f741fdc5261ccc4ff12f91c3f2c7937fc76ced8584b445c4fa8d607f57c5c"
+metafile = true
+
+[[files]]
+file = "mods/dungeonz.pw.toml"
+hash = "5819aa0f0ddd163e62ef8076e6a917c21fa03be04688025be1908b4272cfd99d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "e84cfd8d009e2fc375c438c634fb6700f3be19ac2163309c9ed06be0cc5c6121"
+metafile = true

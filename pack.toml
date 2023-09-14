@@ -1,0 +1,13 @@
+name = "The Lost Age"
+author = "kubino12_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c58418bd9ec85025d8560f5073208944565df60bd05f6add58f2676f6962f81"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"
