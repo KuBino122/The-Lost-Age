@@ -1,0 +1,13 @@
+name = "Bare Bones x Fresh Animations"
+filename = "Bare Bones x Fresh Animations 1.8.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DCHWs5EF/versions/W22UOKyE/Bare%20Bones%20x%20Fresh%20Animations%201.8.1.zip"
+hash-format = "sha1"
+hash = "7021820153ce681938608da4e94a486b43c9c751"
+
+[update]
+[update.modrinth]
+mod-id = "DCHWs5EF"
+version = "W22UOKyE"

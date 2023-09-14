@@ -1,0 +1,13 @@
+name = "VanillaTweaks"
+filename = "VanillaTweaks-fabric-1.20.1-1.5.69.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5DJpA9qi/versions/6rHNIqGZ/VanillaTweaks-fabric-1.20.1-1.5.69.jar"
+hash-format = "sha1"
+hash = "0dbda2c4cb5dd2174d0150fd26b6cda215c88cd5"
+
+[update]
+[update.modrinth]
+mod-id = "5DJpA9qi"
+version = "6rHNIqGZ"
