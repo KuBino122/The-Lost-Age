@@ -1,0 +1,13 @@
+name = "Emissive Ores Addon for Bare Bones"
+filename = "Bare Bones Emissive Ores.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IsHDnOJO/versions/l7Dw1E0G/Bare%20Bones%20Emissive%20Ores.zip"
+hash-format = "sha1"
+hash = "7cf4a31350cbb90821c09c4f6f587bd1eb4be4fe"
+
+[update]
+[update.modrinth]
+mod-id = "IsHDnOJO"
+version = "l7Dw1E0G"
